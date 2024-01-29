@@ -1,0 +1,1 @@
+print("Prokopchuk Oleksandra, IPZ-2023")
